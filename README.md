@@ -45,7 +45,7 @@ Why should people care about this topic?
 
 **How are you doing this work or approaching this problem?**
 
-At a technical focused conference, there's a tendancy to focus most of the lightning talk on this component. However, if people are interested in the topic, they can most easily find out about how you're doing the work by looking at your existing documentation or github repo. Sometimes the 'how' is the novel element that you want to discuss, but you can introduce why the new 'how' is important and still hit the highlights here. 
+At a technical focused conference, there's a tendancy to focus most of the lightning talk on this component. However, if people are interested in the topic, they can most easily find out about how you're doing the work by looking at your existing documentation or github repo, so you don't necessarily need to spend that much time on it. Sometimes the 'how' is the novel element that you want to discuss, but you can introduce why the new 'how' is important and still hit the highlights here. 
 
 *Example: We created an R package that build on the multi-variate statistics R package 'vegan' and extends it to include tail length and fluffiness.*
 
