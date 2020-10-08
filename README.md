@@ -75,3 +75,8 @@ Another advantage of putting together a talk and a short slide deck and practici
 
 These notes are from a talk I gave at the Diversity lunch at SciPy 2017. The participants at that lunch developed an idea and 'pitched' that idea to each other at the lunch. They provided great support to each other, and gave some amazing talks on the future of Jupyter, Python packages, programmable buildings, a project on sustainable software and a software developer onboarding program at Clover Health! There were even more sign ups for lightning talks than there were spots. After this encouragement and opportunity to practice, the diversity of lightning talk speakers increased dramatically from the first day to the last. So, supporting people to give lightning talks could be a pathway to more diverse speakers at a conference and creating a more inclusive community. 
 
+## Past Lightning Talks
+Never seen a lightning talk before or want to see how one looks like before you prepare? Checkout the following lightning talks from past SciPy Conferences:
+- **SciPy 2020 (Virtual):** [Day 1](https://www.youtube.com/watch?v=ot08XU--WpE) | [Day 2](https://www.youtube.com/watch?v=APuHL_tqkO8) | [Day 3](https://www.youtube.com/watch?v=VzRj55pas3I)
+- **SciPy 2019 (Austin, Texas):** [Day 1](https://www.youtube.com/watch?v=AnYjArI2xUM) | [Day 2](https://www.youtube.com/watch?v=s7Ww5-vD2Os) | [Day 3](https://www.youtube.com/watch?v=Gt-GeoWsF2s)
+- **Earlier:** You can [search more](https://www.youtube.com/c/enthought/search?query=lightning%20talks) at Enthought YouTube channel.
