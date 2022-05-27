@@ -10,12 +10,23 @@ The short format is great because you're not up presenting for that long. It can
 
 ## Components of a Lightning Talk
 
+- The Hook
 - Who
 - What
 - Why
 - How
 - When upon
 - Where
+
+While these are the components of a talk that are good to include, feedback from Acacia Duncan at [Articulation](https://www.articulationinc.com/) made me realize that you shouldn't necessarily do them in this order, and you should have a hook! So, adapt for your narrative. Except for The Hook, you should do that first. 
+
+### The Hook
+
+**What's going to make people interested in hearing what you're going to talk about and invoke curiosity?**
+
+In a lightning talk, you only have time to make one point, so what is your point, and what problem does it solve that people might care about.
+
+*Example: Today I'm going to tell you how we can predict when squirrels are going to take over university campuses.*
 
 ### Who
 
