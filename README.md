@@ -34,7 +34,7 @@ In a lightning talk, you only have time to make one point, so what is your point
 
 [Introductions are important](https://github.com/tracykteal/instructors-introduction/blob/gh-pages/slides.md). Especially if you're from a group that is under-represented in the field of the meeting, it (disappointingly) helps to establish your credibility. It also helps the audience understand your perspective for the talk though, so it's always useful. 
 
-*Example: I’m Tracy Teal and I’m a graduate student in mathematical ecology studying ecological models of fluffy-tailed mammals.*
+*Example: I’m Tracy Teal and as a graduate student in mathematical ecology at Cool University, I spend my time thinking about questions like these, as I research ecological models of fluffy-tailed mammals.*
 
 ### What
 
