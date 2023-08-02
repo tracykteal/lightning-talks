@@ -2,6 +2,8 @@
 
 So, you're giving a talk, congratulations! Now though, you've found out it's a talk that you need or want to record. Here are some tips and tricks on how to record your talk from the comfort of your own home/office/somewhere-sort-of-quiet.
 
+We're recommending recording with your usual videoconferencing software. We'll focus on Zoom here, but there are other options. This is nice because you can easily record your screen and yourself, and it's a system you're familiar with. If you love recording, and have other recording software or setup, that's great too. These are just some of the easiest ways to do recording that also produce high quality recordings. See more on [recording] below.
+
 ## The Setup
 
 To record a talk you'll need setup for sound, video and some source of light. You'll also need some recording software. 
@@ -10,50 +12,77 @@ To record a talk you'll need setup for sound, video and some source of light. Yo
 
 It's good to have:
 * A quiet space
-* A microphone that is not your computer's microphone
+* An external microphone
 
-A lavalier microphone works well. Here is one you could order. 
+#### Choosing and using your microphone
 
-How to see if your sound was good:
-* Listen to it
+These are some things that we've found to work well. If you don't have these things though, it's ok, just use what you have. 
+
+* It's always best to use a microphone that's plugged in versus a bluetooth
+* Our top recommendation is to use a lavalier microphone. It works well and is generally low cost. (here's one you could order)
+* Point the microphone towards your mouth, where the sound is coming from
+
+#### Checking your sound
+
+When checking your sound, the key of course is to listen to it. Here are some things you can be listening for that affect how things will sound as a video.
+
+Before recording the whole video, do a test and listen. 
+
+* Sometimes the microphone or clothing is scratching against the microphone, listen to see if you hear that
+* Make sure it's not too quiet. If you have to really turn up your volume to hear it, it's probably too quiet. 
+* Sometimes there's some white noise in the background, that can sound even louder through a microphone, so it's best to not have that
+
+[Here's a sample of how your video should sound](data science hangouts)
 
 ### Camera
 
-Here too it's good to use a camera that is not your computer's camera. Fortunately phone camera's work really well for this!
+If you have a camera that already works with how you do Zoom meetings, it's good to use that one. If you mainly use your computer's built in camera, that works too!
+
+If you are looking to use an external camera, your phone is a good choice. It's a better camera, and you usually have one handy.
+
+[Here's how to record with your phone with Zoom]
 
 ### Lighting
 
-It’s good to have the light come from behind your computer screen, so that your face is well-lit. So, you could put a lamp behind or your computer or these are some lightning setups that are affordable that you can purchase and use your LSA funds for, so it’s not coming out of your personal pocket. 
+It’s good to have the light come from behind your computer screen, so that your face is well-lit. So, you could put a lamp behind or your computer or these are some lightning setups that are affordable that you can purchase. [link to thing you can purchase]
 
-Here are some good lighting tips for filming at home.
+Here's a good video on lighting and things to keep in mind. 
 
-Here's a light you can order. 
+[video about good lighting tips](https://www.youtube.com/watch?v=XSif3dWCX8g&t=319s)
+
+### Your presentation
+
+When you're recording on a small screen in your home/office, it's easy to forget that this will be playing on a screen in a large room. You should still be thinking about [presentation slide best practices], in particular using a greater than 36 pt font size, using a high color contrast for fonts and background, and not having too many words on one slide. If you're live coding, zoom in a few times so the font is bigger. 
 
 
 ## Recording
 
-You might be recording on your own and don’t need editing, or do need editing and are therefore coordinating with someone else. 
+We're going to talk about recording without editing. If you do want to record and edit, that's fine! We're just not going to go into that detail here. 
 
-If you are going to be working with someone other than yourself on editing your video, then talk with your eidtor! Talk with them about your idea and what you’re thinking, and you can work together to figure out a plan.
+We're recommending recording with your standard videoconferencing software, likely Zoom. You can share your screen and do your presentation, and also record yourself, so you're all set up in one go!
 
-### General recording tips
+Recording tips:
+* Look at the camera when you're recording. Get the camera eye level if you can. 
+* It's nice to see you full screen at the beginning and end of the presentation. So, you can say hi or do the intro before you share your screen, then at the end stop sharing your screen and say bye or wrap up. 
+* We recommend showing your face while you're presenting, but if you just want to do that at the beginning and end, that's ok. 
+* If you can, stand up when you give the talk, it just tends to make it more engaging.
+* Getting started can be the toughest part. If you can practice that first 30 seconds, so you feel confident about it, the rest will then be easier. 
+* This isn't easy! You'll probably need to do a few takes and try a few things out. Give yourself time for that, so you can figure out what's going to work best for you.
 
-A couple notes:
+### Sharing your recording
 
-Stay entirely focused on your phone's camera.
+You have your recording. Yay! Now you need to share it with whoever needs it for your talk. 
 
-Using a clicker for your slides will help.
+You might want to do some light editing first, trimming off the beginning or end of the presentation. Here's how you can do that in Quicktime on a Mac and on Microsoft Photos on a PC. 
 
-It works well if you stand while giving your presentation.
+Assuming you've done this in something like Zoom, you'll now just have one file to share, likely an .mp4. You can share this file with whoever needs it and you're set!
 
-Some people might want to record their talk and demo in one pass, and then record their presentation slides in a second pass (listening to your talk in the background for timing.)
+If you've recorded with something like Quicktime and recorded screen and yourself seperately, depending on who you're working with, you'll probably need to edit those together. There's good resources online for how to do that. 
 
-### Recording
 
-How to [record your screen with QuickTime](https://libguides.rowan.edu/c.php?g=248114&p=4711659) (Mac)
+### Wrapping up
 
-How to [record your screen with [Snagit](https://www.techsmith.com/learn/tutorials/snagit/how-to-capture-video/)
-
+Now you're done with your talk! When the day comes for it's delivery, you have nothing to worry about, your recording is all ready to speak for you. So, relax and enjoy the event!
 
 
 
