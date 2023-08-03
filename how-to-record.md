@@ -2,7 +2,7 @@
 
 So, you're giving a talk, congratulations! Now though, you've found out it's a talk that you need or want to record. Here are some tips and tricks on how to record your talk from the comfort of your own home/office/somewhere-sort-of-quiet.
 
-We're recommending recording with your usual videoconferencing software. We'll focus on Zoom here, but there are other options. This is nice because you can easily record your screen and yourself, and it's a system you're familiar with. If you love recording, and have other recording software or setup, that's great too. These are just some of the easiest ways to do recording that also produce high quality recordings. 
+We're recommending recording with your usual videoconferencing software. We'll focus on Zoom here, but there are other options. This is nice because you can easily record your screen and yourself, and it's a system you're familiar with. If you love recording, and have other recording software or setup, that's great too. These are just some of the easiest ways to do recording that also produce high quality recordings. If you're on a Mac and have Keynote, that's another good option for recording, it's not just for creating slides!
 
 ## The Setup
 
@@ -27,6 +27,7 @@ These are some things that we've found to work well. If you don't have these thi
 When checking your sound, the key is to listen to how the recording sounds. We recommend that before recording a whole video, do a test and then listen to the sound. 
 Here are some things you can be listening for that affect how things will sound as a video.
 
+* If you've plugged in a microphone to record, you may need to unplug to be able to listen to the sound.
 * Sometimes the clothing or hair is scratching against the microphone, listen to see if you hear that, and adjust the microphone if needed.
 * Make sure the volume of the recording isn't too quiet. If you have to really turn up your volume to hear it, it's probably too quiet. 
 * Sometimes there's some white noise in the background, that can sound even louder in a recording, so see if you can find the source of that noise and reduce it before recording. 
@@ -58,7 +59,7 @@ When you're recording on a small screen in your home/office, it's easy to forget
 
 We're going to talk about recording without editing. If you do want to record and edit, that's fine! We're just not going to go into that level of detail here. 
 
-We're recommending recording with your standard videoconferencing software, likely Zoom. You can share your screen and do your presentation, and also record yourself, so you're all set up in one go!
+We're recommending recording with your standard videoconferencing software, likely Zoom. You can share your screen and do your presentation, and also record yourself, so you're all set up in one go! Keynote also has an easy-to-record functionality built in, so if you're using Keynote for slides, or would like to, that a [good recording option](https://support.apple.com/lt-lt/guide/keynote/tan81813d552/mac).
 
 Recording tips:
 * Look at the camera when you're recording. Get the camera eye level if you can. 
