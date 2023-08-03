@@ -6,6 +6,8 @@ Lightning talks are great opportunities to highlight what you're working on and 
 
 The short format is great because you're not up presenting for that long. It can also be intimidating though, because there's an improv type feel to them. However, it doesn't have to be like that. You can prepare for a lightning talk just like a longer format talk. In fact, outlining what you want to say and practicing a few times can be even more effective, because you have just a few minutes to get your main point across. 
 
+If you need to record your lighting talk, or really any talk, here are [some tips on how to do the recording](https://github.com/tracykteal/lightning-talks/blob/main/how-to-record.md). 
+
 **So, what do you put into a lightning talk?** I'm sure there a lot of ideas, but I basically consider them like that leading paragraph in a newspaper article. Hit the key information and tell people where they can learn more. Since newspapers follow a Who, What, When, Where, Why format, we can follow that same general format for a lightning talk (in a slightly different order).
 
 ## Components of a Lightning Talk
