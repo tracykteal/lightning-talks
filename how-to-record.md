@@ -4,6 +4,8 @@ So, you're giving a talk, congratulations! Now though, you've found out it's a t
 
 We're recommending recording with your usual videoconferencing software. We'll focus on Zoom here, but there are other options. This is nice because you can easily record your screen and yourself, and it's a system you're familiar with. If you love recording, and have other recording software or setup, that's great too. These are just some of the easiest ways to do recording that also produce high quality recordings. If you're on a Mac and have Keynote, that's another good option for recording, it's not just for creating slides!
 
+Here's an [example lightning talk from Jenny Bryan](https://youtu.be/ES1LTlnpLMk). She recorded this one using Keynote. 
+
 ## The Setup
 
 To record a talk you'll need setup for sound, video and some source of light. You'll also need some recording software. 
